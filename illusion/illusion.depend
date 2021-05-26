@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1519293718 source:c:\users\hp\desktop\illusion\main.cpp
+	<graphics.h>
+	<conio.h>
+	<dos.h>
+	<math.h>
+
+1519293718 source:c:\users\hp\desktop\rough\illusion\main.cpp
+	<graphics.h>
+	<conio.h>
+	<dos.h>
+	<math.h>
+
