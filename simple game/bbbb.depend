@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1519471196 source:c:\users\hp\desktop\bbbb\main.cpp
+	<graphics.h>
+	<conio.h>
+	<math.h>
+	<dos.h>
+
